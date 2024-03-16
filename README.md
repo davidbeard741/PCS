@@ -37,22 +37,26 @@
 - **Stay**
   - At Adam's House.
 
-### May 2-3, Thursday to Friday
-- **May 2 (Thursday)**
-  - Vehicle turn-in at Baltimore.
-  - Stay at Adam's House.
-- **May 3 (Friday)**
-  - Vehicle turn-in at Baltimore.
+### May 2, Thursday
+- **Task**
   - Obtain official orders at CPAC.
-  - Stay at Adam's House.
+- **Stay**
+  - Check-in at a pet-friendly hotel near BWI (1600)
+
+### May 3, Friday
+- **Task**
+  - Vehicle turn-in at Baltimore (0800)
+
+- **Stay**
+  - Pet-friendly hotel near BWI
 
 ### May 4, Saturday
 - **Stay**
-  - At Adam's House.
+  - Pet-friendly hotel near BWI
 
 ### May 5, Sunday
-- **Evening**
-  - Check-in at a pet-friendly hotel near BWI (1600).
+- **Stay**
+  - Pet-friendly hotel near BWI
 
 ### May 6, Monday
 - **Morning**
